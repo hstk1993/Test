@@ -12,5 +12,6 @@ public class MainActivity2 extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
         String str = "ww";
         Intent intent = new Intent();
+        int ss= 2;
     }
 }
