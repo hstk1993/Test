@@ -10,9 +10,6 @@ public class MainActivity2 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
-        String str = "ww";
-        Intent intent = new Intent();
-        int ss= 2;
-        String ff = "2222";
+
     }
 }
