@@ -13,5 +13,6 @@ public class MainActivity2 extends AppCompatActivity {
         String str = "ww";
         Intent intent = new Intent();
         int ss= 2;
+        String ff = "2222";
     }
 }
